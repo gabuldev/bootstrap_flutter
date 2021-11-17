@@ -1,0 +1,36 @@
+{
+
+	"screen-lg": {
+		"scope": "dart",
+		"prefix": "bslg",
+		"body": [
+			"'lg-$1'",
+		],
+		"description": "Large Screen"
+	},
+
+	"screen-md": {
+		"scope": "dart",
+		"prefix": "bsmd",
+		"body": [
+			"'md-$1'",
+		],
+		"description": "Medium Screen"
+	},
+	"screen-sm": {
+		"scope": "dart",
+		"prefix": "bssm",
+		"body": [
+			"'sm-$1'",
+		],
+		"description": "Small Screen"
+	},
+	"screen-xs": {
+		"scope": "dart",
+		"prefix": "bsxs",
+		"body": [
+			"'xs-$1'",
+		],
+		"description": "Xtreme Small Screen"
+	}
+}
