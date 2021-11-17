@@ -1,4 +1,3 @@
-import 'package:collection/collection.dart';
 import 'package:flutter/material.dart';
 
 import 'package:bootstrap_flutter/bootstrap_flutter.dart';
@@ -24,13 +23,10 @@ class Component {
 
   @override
   bool operator ==(Object other) {
-    if (identical(this, other)) return true;
-    final mapEquals = const DeepCollectionEquality().equals;
-
     return other is Component &&
         other.style == style &&
         other.child == child &&
-        mapEquals(other.organizations, organizations);
+        other.organizations == organizations;
   }
 
   @override

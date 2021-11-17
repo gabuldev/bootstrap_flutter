@@ -1,11 +1,11 @@
 name: bootstrap_flutter
 description: Aplicação de responsividade do bootstrap para facilitar a criação de multiplos tamanhos de telas em seus projetos
 version: 1.0.0
-homepage:
+repository: https://github.com/gabuldev/bootstrap_flutter
+homepage: https://gabul.dev/
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=1.17.0"
 
 dependencies:
   flutter:
