@@ -1,3 +1,8 @@
+![](https://img.shields.io/github/license/gabuldev/bootstrap_flutter?style=flat)
+![](https://img.shields.io/github/issues/gabuldev/bootstrap_flutter?style=flat)
+[![codecov](https://codecov.io/gh/gabuldev/bootstrap_flutter/branch/main/graph/badge.svg?token=R2S8PLJ8EG)](https://codecov.io/gh/gabuldev/bootstrap_flutter)
+[![pub package](https://img.shields.io/pub/v/bootstrap_flutter.svg)](https://pub.dev/packages/bootstrap_flutter)
+
 # Intro
 
 Package criado para facilitar o uso do Flutter em multiplos tamanhos de telas. Com esse package você vai conseguir fazer que o mesmo layout tenha comportamentos diferentes para dispositivos, mobile, tablet, web e desktop.
