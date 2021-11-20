@@ -48,7 +48,7 @@ md: h*3
 
 # Importante
 
-Esse package está na sua primeira versão, então pedimos para todas as issues reportagem o mais rápido possível ou subir uma correção para deixarmos o mais alinhado e utilizável possível.
+Esse package está na sua primeira versão, então pedimos para reportarem todas as issues o mais rápido possível ou subir uma correção para deixarmos o mais alinhado e utilizável possível.
 
 # Agradecimento
 
